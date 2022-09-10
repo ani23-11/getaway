@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Get-A-WAY | Find your Way</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather|Noto+Sans|Pacifico&display=swap" rel="stylesheet">
+
+    <style>
+
+        html, body {
+            height: 100%;
+            margin: 0px;
+            padding: 0px;
+        }
+        
+        body {
+             
+            min-width: 999px;
+        }
+        
+        header {
+            height: 100%;
+            position: relative;
+        }
+        
+        header div.content {
+            width: 100%;
+            position: absolute;
+            left: 0px;
+            right: 0px;
+            top: 12.5%;
+            max-width: none;
+            height: 100%;
+            margin-top: -95px;
+            text-align: center;
+            background: rgba(6, 6, 6, 0.8);
+            font-size: 80px;
+            font-family: impact;
+            
+        }
+        
+        content {
+  position: relative;
+  width: 50%;
+}
+    
+        .color-1 {
+            color: #ffffff;
+            line-height: 180px;
+        }
+        
+            
+            </style>
+
+</head>
+
+
+<body>
+
+    <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand">
+				Get-A-WAY
+			</a>
+            </div>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-item nav-link" href="home.html">Home</a>
+                    <a class="nav-item nav-link" href="getaway.html">Camps</a>
+                    <a class="nav-item nav-link" href="aboutus.html">About Us</a>
+                </div>
+                <ul class="navbar-nav ml-auto">
+
+                    <li class="nav-item"><a class="nav-item nav-link" href="index.html" style="float:right;">Sign In <i class="fa fa-user-plus"></i></a></li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+    
+    <header>
+        <div class="content">
+              <img src="logo2.png" width="600" height="600">
+        </div>
+
+            
+         
+    </header>
+
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    
+    <script type="text/javascript" src="jquery.mkinfinite.js"></script>
+    
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $('header').mkinfinite({
+                maxZoom:       1.4,
+                animationTime: 4000,
+                imagesRatio:   (768 / 576),
+                isFixedBG:     true,
+                zoomIn:        true,
+                imagesList:    new Array(
+                    'https://wallpaperaccess.com/full/2979509.jpg','https://wallpaperaccess.com/full/3654062.jpg',
+                    'https://www.teahub.io/photos/full/319-3197662_wallpaper-sunset-mountains-figure-vector-trees-river-view.jpg',
+                    'https://i.redd.it/4v718eku9z221.png','https://wallpaperaccess.com/full/2972945.png')
+            });
+        });
+    </script>
+</body>
+
