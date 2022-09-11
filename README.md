@@ -7,7 +7,7 @@ We have created a platform that displays an array of campsites belonging to ever
 The project has been built using HTML, CSS and Javascript. We have tried to use simple coding practices to create a unique platform.
 Our sole purpose is to make people set out on more outdoor trips, find out what nature has to offer and discover more about themselves and the world around them.
 
-Site: https://getaway.aniketnigam2.repl.co/
+Site: https://getaway.aniketnigam2.repl.co/ <br>
 DevFolio: https://devfolio.co/projects/getaway-a7ce
 
 ## DEMO VIDEO
