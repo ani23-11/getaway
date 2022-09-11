@@ -32,7 +32,7 @@ No more wasting time in googling tirelessly for unique camping spots coz we have
 ## LOGIN
 
 
-![alt text](https://raw.githubusercontent.com/avinashh3003/getaway/main/gifs/My%20Video.gif)
+![alt text](https://raw.githubusercontent.com/ani23-11/getaway/main/gifs/My%20Video.gif)
 
 We provide you with an option to sign up for our services. Once you register, your perfect camping sites are just one click away! 
 If you are a pre-existing user, you are all set to explore further. Always remember that a wanderer never stops exploring !
