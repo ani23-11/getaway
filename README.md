@@ -2,7 +2,7 @@
 # GET-A-WAY
 
 
-Get-A-Way is a project built for HackOdisha 2.0. It is the result of the hard work of our team, “Cadre Corps”. It is a guide for all the nature enthusiasts who wish to discover the concealed gems of nature. 
+Get-A-Way is a project built for HackOdisha 2.0. It is the result of the hard work of our team, “Cadre Corps”. It is a guide for all the nature enthusiasts who wish to discover what lays concealed in nature. 
 We have created a platform that displays an array of campsites belonging to every nook and corner of the country. We wish to show you that your escape spot is just one step away!
 The project has been built using HTML, CSS and Javascript. We have tried to use simple coding practices to create a unique platform.
 Our sole purpose is to make people set out on more outdoor trips, find out what nature has to offer and discover more about themselves and the world around them.
