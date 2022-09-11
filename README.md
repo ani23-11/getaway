@@ -8,6 +8,7 @@ The project has been built using HTML, CSS and Javascript. We have tried to use 
 Our sole purpose is to make people set out on more outdoor trips, find out what nature has to offer and discover more about themselves and the world around them.
 
 Site: https://getaway.aniketnigam2.repl.co/
+DevFolio: https://devfolio.co/projects/getaway-a7ce
 
 ## DEMO VIDEO
 Click here to see our magic!
